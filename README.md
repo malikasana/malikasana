@@ -36,6 +36,7 @@
 | [**ai-gateway**](https://github.com/malikasana/ai-gateway) | Local AI bridge server — talk to Claude, ChatGPT, DeepSeek & Gemini without API keys. OS-level automation, Flask HTTP queue, browser UI, ngrok-ready. |
 | [**gemini-flux**](https://github.com/malikasana/gemini-flux) `pip install gemini-flux` | Smart Gemini API key manager. Token-aware sliding window scheduling across N keys × N GCP projects. ~10,800 free requests/day with 8 keys. Auto-rotation, model fallback chain, daily resets. |
 | [**smartgate-ai**](https://github.com/malikasana/smartgate-ai) `pip install smartgate-ai` | AI-powered semantic firewall for databases. 6-layer pipeline (IP → queue → size → hash → AI → save). Authenticates *data* instead of users. Supports Gemini, DeepSeek, OpenAI with auto-fallback. |
+| [**preflight**](https://github.com/malikasana/preflight) `npx @malikasana/preflight-mcp` | MCP server that gives Claude Code accurate knowledge of your machine — environment detection, live package versions from npm/PyPI/pub.dev, auto-generates CLAUDE.md. Token-efficient, self-healing. |
 
 ### 🔐 Security & Privacy
 
