@@ -26,15 +26,34 @@
 
 ## 🛠 Stack
 
-**Mobile:** Flutter · Dart · Android
-**Backend:** Python · FastAPI · Node.js · Flask · WebSockets
-**AI/ML:** PyTorch · scikit-learn · XGBoost · Whisper · ResNet · RAG · ChromaDB · Gemini · Claude · GPT
-**Security:** XChaCha20-Poly1305 · Curve25519 · Double Ratchet · RSA-2048
-**Infra:** Docker · GitHub Pages · Render · Railway · HuggingFace Spaces · ngrok · PyPI
+**Mobile**
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,python,fastapi,nodejs,pytorch,docker,github,flask" />
-</div>
+**Backend**
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,flask,redis" />
+
+**AI / ML**
+<img src="https://skillicons.dev/icons?i=pytorch" />
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Database & Auth**
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
+
+**Infra & DevOps**
+<img src="https://skillicons.dev/icons?i=docker,github,linux" />
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+**Security**
+![XChaCha20](https://img.shields.io/badge/XChaCha20--Poly1305-1e293b?style=flat-square)
+![Curve25519](https://img.shields.io/badge/Curve25519-0f172a?style=flat-square)
+![Double Ratchet](https://img.shields.io/badge/Double_Ratchet_PFS-111827?style=flat-square)
+![RSA](https://img.shields.io/badge/RSA--2048-1e293b?style=flat-square)
 
 ---
 
@@ -44,7 +63,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**ai-gateway**](https://github.com/malikasana/ai-gateway) | Local AI bridge server — talk to Claude, ChatGPT, DeepSeek & Gemini without API keys. OS-level automation, Flask HTTP queue, browser UI, ngrok-ready. |
+| [**ai-gateway**](https://github.com/malikasana/ai-gateway) | Local AI bridge server — talk to Claude, ChatGPT, DeepSeek and Gemini without API keys. OS-level automation, Flask HTTP queue, browser UI, ngrok-ready. |
 | [**gemini-flux**](https://github.com/malikasana/gemini-flux) `pip install gemini-flux` | Smart Gemini API key manager. Token-aware sliding window scheduling across N keys × N GCP projects. ~10,800 free requests/day with 8 keys. Auto-rotation, model fallback chain, daily resets. |
 | [**smartgate-ai**](https://github.com/malikasana/smartgate-ai) `pip install smartgate-ai` | AI-powered semantic firewall for databases. 6-layer pipeline (IP → queue → size → hash → AI → save). Authenticates *data* instead of users. Supports Gemini, DeepSeek, OpenAI with auto-fallback. |
 | [**preflight**](https://github.com/malikasana/preflight) `npx @malikasana/preflight-mcp` | MCP server that gives Claude Code accurate knowledge of your machine — environment detection, live package versions from npm/PyPI/pub.dev, auto-generates CLAUDE.md. Token-efficient, self-healing. |
@@ -84,13 +103,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikasana&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikasana&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malikasana&theme=github-dark-blue&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=malikasana&theme=github-dark-blue&hide_border=true"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikasana&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikasana&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
@@ -98,7 +117,7 @@
 
 ## 📍 Status
 
-🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Kashmir &nbsp;·&nbsp;
+🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Pakistan &nbsp;·&nbsp;
 
 ---
 
