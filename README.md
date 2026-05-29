@@ -71,7 +71,7 @@
 
 ## 📍 Status
 
-🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Pakistan &nbsp;·&nbsp; 🧠 Always building
+🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Pakistan &nbsp;·&nbsp;
 
 ---
 
