@@ -1,59 +1,29 @@
 <!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,50:0d1117,100:161b22&text=Muhammad%20Ali%20Kasana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
+# Hey, I'm Muhammad Ali 👋
 
-<br/>
+**Software Engineer & AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-malikasana.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://malikasana.github.io)
-[![CV](https://img.shields.io/badge/CV-Professional-161b22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://malikasana.github.io/cv)
-[![Email](https://img.shields.io/badge/Gmail-malikasana2810-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikasana2810@gmail.com)
-[![PyPI](https://img.shields.io/badge/dynamic/json?url=https://pypi.org/pypi/smartgate-ai/json&query=$.info.version&label=smartgate-ai&style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&prefix=v)](https://pypi.org/user/malikasana)
-[![PyPI](https://img.shields.io/badge/dynamic/json?url=https://pypi.org/pypi/gemini-flux/json&query=$.info.version&label=gemini-flux&style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&prefix=v)](https://pypi.org/project/gemini-flux)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/malikasana)
+*I build complete systems — mobile frontends, AI pipelines, security infrastructure, and developer tools.*
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=malikasana&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-malikasana.github.io-blue?style=flat-square&logo=github)](https://malikasana.github.io)
+[![CV](https://img.shields.io/badge/CV-Professional-gray?style=flat-square&logo=github)](https://malikasana.github.io/cv)
+[![Email](https://img.shields.io/badge/Email-malikasana2810@gmail.com-red?style=flat-square&logo=gmail)](mailto:malikasana2810@gmail.com)
+[![PyPI](https://img.shields.io/badge/PyPI-2%20packages-orange?style=flat-square&logo=pypi)](https://pypi.org/user/malikasana)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/malikasana)
 
 </div>
 
 ---
 
-*I build complete systems — mobile frontends, AI pipelines, security infrastructure, and developer tools.*
-
----
-
 ## 🛠 Stack
 
-**Mobile**
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-
-**Backend**
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,flask,redis" />
-
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=pytorch" />
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_Whisper-F55036?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Database & Auth**
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
-
-**Infra & DevOps**
-<img src="https://skillicons.dev/icons?i=docker,github,linux" />
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-**Security**
-![XChaCha20](https://img.shields.io/badge/XChaCha20--Poly1305-1e293b?style=flat-square)
-![Curve25519](https://img.shields.io/badge/Curve25519-0f172a?style=flat-square)
-![Double Ratchet](https://img.shields.io/badge/Double_Ratchet_PFS-111827?style=flat-square)
-![RSA](https://img.shields.io/badge/RSA--2048-1e293b?style=flat-square)
+**Mobile:** Flutter · Dart · Android  
+**Backend:** Python · FastAPI · Node.js · Flask · WebSockets  
+**AI/ML:** PyTorch · scikit-learn · XGBoost · Whisper · ResNet · RAG · ChromaDB · Gemini · Claude · GPT  
+**Security:** XChaCha20-Poly1305 · Curve25519 · Double Ratchet · RSA-2048  
+**Infra:** Docker · GitHub Pages · Render · Railway · HuggingFace Spaces · ngrok · PyPI  
 
 ---
 
@@ -63,7 +33,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**ai-gateway**](https://github.com/malikasana/ai-gateway) | Local AI bridge server — talk to Claude, ChatGPT, DeepSeek and Gemini without API keys. OS-level automation, Flask HTTP queue, browser UI, ngrok-ready. |
+| [**ai-gateway**](https://github.com/malikasana/ai-gateway) | Local AI bridge server — talk to Claude, ChatGPT, DeepSeek & Gemini without API keys. OS-level automation, Flask HTTP queue, browser UI, ngrok-ready. |
 | [**gemini-flux**](https://github.com/malikasana/gemini-flux) `pip install gemini-flux` | Smart Gemini API key manager. Token-aware sliding window scheduling across N keys × N GCP projects. ~10,800 free requests/day with 8 keys. Auto-rotation, model fallback chain, daily resets. |
 | [**smartgate-ai**](https://github.com/malikasana/smartgate-ai) `pip install smartgate-ai` | AI-powered semantic firewall for databases. 6-layer pipeline (IP → queue → size → hash → AI → save). Authenticates *data* instead of users. Supports Gemini, DeepSeek, OpenAI with auto-fallback. |
 | [**preflight**](https://github.com/malikasana/preflight) `npx @malikasana/preflight-mcp` | MCP server that gives Claude Code accurate knowledge of your machine — environment detection, live package versions from npm/PyPI/pub.dev, auto-generates CLAUDE.md. Token-efficient, self-healing. |
@@ -95,36 +65,16 @@
 | Project | Description |
 |---------|-------------|
 | [**multi-grid**](https://github.com/malikasana/multi-grid) | Interactive long multiplication worksheet. Breaks any number up to 9999 × 99 into place-value steps visually. Vanilla HTML/CSS/JS. [Live site](https://multigrid-d104.onrender.com). |
-| [**malikasana.github.io**](https://github.com/malikasana.github.io) | Personal portfolio and CV — [programmer theme](https://malikasana.github.io) · [professional theme](https://malikasana.github.io/cv). |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikasana&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=malikasana&theme=github-dark-blue&hide_border=true"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikasana&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"/>
-
-</div>
+| [**malikasana.github.io**](https://github.com/malikasana/malikasana.github.io) | Personal portfolio and CV — [programmer theme](https://malikasana.github.io) · [professional theme](https://malikasana.github.io/cv). |
 
 ---
 
 ## 📍 Status
 
-🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Pakistan &nbsp;·&nbsp;
+🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Pakistan &nbsp;·&nbsp; 🧠 Always building
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:161b22,50:0d1117,100:0f0f0f&section=footer"/>
-
 <sub>github.com/malikasana · malikasana.github.io · malikasana2810@gmail.com</sub>
-
 </div>
