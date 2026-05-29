@@ -1,29 +1,40 @@
 <!-- Header -->
 <div align="center">
 
-# Hey, I'm Muhammad Ali 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f0f,50:0d1117,100:161b22&text=Muhammad%20Ali%20Kasana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-**Software Engineer & AI Engineer**
+<br/>
 
-*I build complete systems — mobile frontends, AI pipelines, security infrastructure, and developer tools.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-malikasana.github.io-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://malikasana.github.io)
+[![CV](https://img.shields.io/badge/CV-Professional-161b22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://malikasana.github.io/cv)
+[![Email](https://img.shields.io/badge/Gmail-malikasana2810-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikasana2810@gmail.com)
+[![PyPI](https://img.shields.io/badge/dynamic/json?url=https://pypi.org/pypi/smartgate-ai/json&query=$.info.version&label=smartgate-ai&style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&prefix=v)](https://pypi.org/user/malikasana)
+[![PyPI](https://img.shields.io/badge/dynamic/json?url=https://pypi.org/pypi/gemini-flux/json&query=$.info.version&label=gemini-flux&style=for-the-badge&logo=pypi&logoColor=white&color=3775A9&prefix=v)](https://pypi.org/project/gemini-flux)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/malikasana)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-malikasana.github.io-blue?style=flat-square&logo=github)](https://malikasana.github.io)
-[![CV](https://img.shields.io/badge/CV-Professional-gray?style=flat-square&logo=github)](https://malikasana.github.io/cv)
-[![Email](https://img.shields.io/badge/Email-malikasana2810@gmail.com-red?style=flat-square&logo=gmail)](mailto:malikasana2810@gmail.com)
-[![PyPI](https://img.shields.io/badge/PyPI-2%20packages-orange?style=flat-square&logo=pypi)](https://pypi.org/user/malikasana)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/malikasana)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=malikasana&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+*I build complete systems — mobile frontends, AI pipelines, security infrastructure, and developer tools.*
+
+---
+
 ## 🛠 Stack
 
-**Mobile:** Flutter · Dart · Android  
-**Backend:** Python · FastAPI · Node.js · Flask · WebSockets  
-**AI/ML:** PyTorch · scikit-learn · XGBoost · Whisper · ResNet · RAG · ChromaDB · Gemini · Claude · GPT  
-**Security:** XChaCha20-Poly1305 · Curve25519 · Double Ratchet · RSA-2048  
-**Infra:** Docker · GitHub Pages · Render · Railway · HuggingFace Spaces · ngrok · PyPI  
+**Mobile:** Flutter · Dart · Android
+**Backend:** Python · FastAPI · Node.js · Flask · WebSockets
+**AI/ML:** PyTorch · scikit-learn · XGBoost · Whisper · ResNet · RAG · ChromaDB · Gemini · Claude · GPT
+**Security:** XChaCha20-Poly1305 · Curve25519 · Double Ratchet · RSA-2048
+**Infra:** Docker · GitHub Pages · Render · Railway · HuggingFace Spaces · ngrok · PyPI
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,python,fastapi,nodejs,pytorch,docker,github,flask" />
+</div>
 
 ---
 
@@ -65,16 +76,36 @@
 | Project | Description |
 |---------|-------------|
 | [**multi-grid**](https://github.com/malikasana/multi-grid) | Interactive long multiplication worksheet. Breaks any number up to 9999 × 99 into place-value steps visually. Vanilla HTML/CSS/JS. [Live site](https://multigrid-d104.onrender.com). |
-| [**malikasana.github.io**](https://github.com/malikasana/malikasana.github.io) | Personal portfolio and CV — [programmer theme](https://malikasana.github.io) · [professional theme](https://malikasana.github.io/cv). |
+| [**malikasana.github.io**](https://github.com/malikasana.github.io) | Personal portfolio and CV — [programmer theme](https://malikasana.github.io) · [professional theme](https://malikasana.github.io/cv). |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikasana&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malikasana&theme=github-dark-blue&hide_border=true"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikasana&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
 ## 📍 Status
 
-🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Pakistan &nbsp;·&nbsp; 🧠 Always building
+🟢 &nbsp;Open to opportunities &nbsp;·&nbsp; 📍 Kashmir &nbsp;·&nbsp;
 
 ---
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:161b22,50:0d1117,100:0f0f0f&section=footer"/>
+
 <sub>github.com/malikasana · malikasana.github.io · malikasana2810@gmail.com</sub>
+
 </div>
